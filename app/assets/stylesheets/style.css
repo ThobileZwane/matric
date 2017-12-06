@@ -1,0 +1,22 @@
+.header{
+	text-align: center;
+	font-size: 30px;
+	font-style: italic;		
+}
+
+.error{
+	color: red;
+}
+#chart-container{
+	padding-left: 18%;
+	padding-top: 8%;
+	width: 100%;
+
+}
+#chart_div{
+	padding-bottom: 50%;
+}
+.header h1{
+	font-size: 20px;
+
+}
